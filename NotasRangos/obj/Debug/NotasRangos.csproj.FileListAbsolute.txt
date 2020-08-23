@@ -1,0 +1,10 @@
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\bin\Debug\NotasRangos.exe.config
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\bin\Debug\NotasRangos.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\bin\Debug\NotasRangos.pdb
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\obj\Debug\NotasRangos.csprojAssemblyReference.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\obj\Debug\NotasRangos.Form1.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\obj\Debug\NotasRangos.Properties.Resources.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\obj\Debug\NotasRangos.csproj.GenerateResource.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\obj\Debug\NotasRangos.csproj.CoreCompileInputs.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\obj\Debug\NotasRangos.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\NotasRangos\NotasRangos\obj\Debug\NotasRangos.pdb
